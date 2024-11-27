@@ -41,7 +41,7 @@ stanleyzhao@StanleydeMacBook-Pro Github % curl ip.im/info
 ## 1.克隆项目
 
 ```bash
-https://github.com/zhaoweih/clash-for-linux-backup.git
+git clone https://github.com/zhaoweih/clash-for-linux-backup.git
 ```
 
 ## 2.进入项目修改.env文件 添加clash订阅地址
