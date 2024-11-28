@@ -29,7 +29,7 @@ stanleyzhao@StanleydeMacBook-Pro Github % curl ip.im/info
 	Country:中国
 	Province:广东
 	City:深圳
-	Districts:福田区
+	Districts:某某区
 	Isp:中国移动
 	ASN:xxxx
 
